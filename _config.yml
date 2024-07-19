@@ -1,0 +1,22 @@
+title: Hessa Al-Thani
+description: >
+  Hessa Al-Thani is a PhD student in Industrial and Operations Engineering,
+  University of Michigan, Ann Arbor.
+copyright: Hessa Al-Thani
+sass:
+  sass_dir: assets/sass
+url: ''
+disqus_shortname: stratajekylldemo
+facebook_username:
+twitter_username: 
+linkedin_username: "hessa-al-thani-5233a874"
+instagram_username:
+pinterest_username:
+flickr_username:
+github_username:  "hessakh"
+scholar_username:
+# feed_icon: rss
+email: "hessakh@umich.edu"
+gems: [jekyll-paginate]
+paginate_path: "/page/:num/"
+paginate: 5
